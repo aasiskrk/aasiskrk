@@ -1,5 +1,4 @@
-- 👋 Hi, I’m krki
-- 👀 I’m interested in music.
+- 👋 Hi, 
 - 🌱 I’m currently learning python, help me.
 
 <!---
